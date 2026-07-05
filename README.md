@@ -38,7 +38,7 @@ Jsoup: For real-time background HTML parsing and metadata extraction (Mini-RAG).
 Kotlin Coroutines & Dispatchers.IO: For asynchronous background polling and safe network calls without freezing the main thread.
 Android Services: Utilizing NotificationListenerService and Accessibility services for invisible background protection.
 ⚙️ How to Run
-Clone the repository: git clone https://github.com/maityrajanya/ElderGuard.git
+Clone the repository: git clone [https://github.com/maityrajanya/ElderGuard.git](https://github.com/rajanyamaity/Elder-Guard-.git)
 Open the project in Android Studio.
 Add your GEMINI_API_KEY in the local.properties file (as instructed above).
 Build and run on an Android device or Emulator (API level 28+ recommended).
