@@ -45,3 +45,4 @@ Build and run on an Android device or Emulator (API level 28+ recommended).
 Follow the on-boarding steps to grant the necessary permissions (Notification Access, File Access, SMS).
 To Test: Share a link from your browser to the app, or send an SMS containing a sketchy link to your emulator to trigger the AI scanner.
    
+
