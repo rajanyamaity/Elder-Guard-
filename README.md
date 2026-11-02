@@ -46,3 +46,4 @@ Follow the on-boarding steps to grant the necessary permissions (Notification Ac
 To Test: Share a link from your browser to the app, or send an SMS containing a sketchy link to your emulator to trigger the AI scanner.
    
 
+
